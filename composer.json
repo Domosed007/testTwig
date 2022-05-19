@@ -1,0 +1,17 @@
+{
+    "name": "alex/test-twig",
+    "autoload": {
+        "psr-4": {
+            "Alex\\TestTwig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksandr",
+            "email": "a.v.smirnov1992@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
